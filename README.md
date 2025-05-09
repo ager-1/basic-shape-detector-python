@@ -1,4 +1,4 @@
-# 🧠 Real-Time Shape Detection and Analysis Tool
+# Real-Time Shape Detection Tool
 
 This Python application uses OpenCV to detect geometric shapes in real-time from a webcam feed. It applies standard image processing techniques like grayscale conversion, Gaussian blur, thresholding, and Canny edge detection.
 

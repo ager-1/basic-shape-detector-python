@@ -11,5 +11,4 @@ This Python script uses OpenCV to detect geometric shapes in real-time from a we
 
 ## Libraries Used
 - OpenCV
-- NumPy
 - Matplotlib

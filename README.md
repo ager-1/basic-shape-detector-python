@@ -1,2 +1,15 @@
-# shape-detector-python
-This is a very basic beginner computer vision project built using Python, OpenCV, and Matplotlib. The tool captures video from your webcam and performs real-time shape detection using an image processing pipeline — converting to grayscale, applying blur, thresholding, edge detection, and then contour detection.
+# 🧠 Real-Time Shape Detection and Analysis Tool
+
+This Python application uses OpenCV to detect geometric shapes in real-time from a webcam feed. It applies standard image processing techniques like grayscale conversion, Gaussian blur, thresholding, and Canny edge detection.
+
+## Features
+- Real-time shape classification (triangle, square, rectangle, circle)
+- Preprocessing pipeline visualization using Matplotlib
+- Adjustable preprocessing parameters
+- Clean code with modular structure
+
+## Requirements
+- Python 3.7+
+- OpenCV
+- NumPy
+- Matplotlib
